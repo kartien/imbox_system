@@ -10,3 +10,5 @@ echo " (_) (_)\__ _)_)   \__)_)\____)_) (_) "
 
 python manage.py migrate 
 python manage.py runserver 3000
+
+
